@@ -18,10 +18,13 @@ Several models were used on the data including Linear Regression, Ridge Regressi
 Random Forest Regression. The models were evaluated against each other by comparing variance
 L2 loss, and other methods.
 
-## Step 3 - Conclusions
+## Step 3 - Evaluation
 The highest contributing data features in the provided set were determined, and several models
 were compared against each other. At least 1 improvement to the model was attempted, and others
 were suggested based on the findings.
+
+## Step 4 - Deployment
+Findings were summarized for business presentation.
 
 Author Contact Info
 Stefan Amshey sramshey@gmail.com
