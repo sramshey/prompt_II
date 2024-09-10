@@ -3,6 +3,8 @@ Berkeley Emeritus AI/ML project assignment
 
 Vehicle sale price data exploration
 
+https://github.com/sramshey/prompt_II/blob/main/prompt_II.ipynb
+
 ## Description
 This project was an analysis of vehicle data in order to determine the best predictors of prices and use
 them to create predictive models. The analysis involved exploring the data, cleaning and transforming it
